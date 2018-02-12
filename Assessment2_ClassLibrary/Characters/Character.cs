@@ -9,5 +9,6 @@ namespace Assessment2_ClassLibrary
         private int baseDamage;
         private int currentHealthPoints;
         private int maxHealthPoints;
+        private Attack normalAttack;
     }
 }

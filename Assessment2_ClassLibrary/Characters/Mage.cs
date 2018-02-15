@@ -6,5 +6,14 @@ namespace Assessment2_ClassLibrary
 {
     public class Mage : PlayerCharacter
     {
+        public void Fireball(int n)
+        {
+
+        }
+
+        public int Healthpoints()
+        {
+            return CurrentHealthPoints;
+        }
     }
 }

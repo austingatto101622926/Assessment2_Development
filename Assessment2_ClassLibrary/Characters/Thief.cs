@@ -6,5 +6,14 @@ namespace Assessment2_ClassLibrary
 {
     public class Thief : PlayerCharacter
     {
+        public void Backstab(int n)
+        {
+
+        }
+
+        public int Healthpoints()
+        {
+            return CurrentHealthPoints;
+        }
     }
 }

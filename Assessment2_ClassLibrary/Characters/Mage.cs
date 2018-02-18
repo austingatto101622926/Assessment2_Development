@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Assessment2_ClassLibrary
 {
-    public class Mage : PlayerCharacter
+    public class Maage : PlayerCharacter
     {
         public void Fireball(int n)
         {
@@ -14,6 +14,6 @@ namespace Assessment2_ClassLibrary
         public int Healthpoints()
         {
             return CurrentHealthPoints;
-        }
+        }  
     }
 }

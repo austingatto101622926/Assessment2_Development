@@ -6,7 +6,7 @@ namespace Assessment2_ClassLibrary.Characters
 {
     class NonPlayerCharacter :  Character
     {
-        private Player Enemy;
+        private Player Enemmy;
         //private float S/N attack;
     }
 }

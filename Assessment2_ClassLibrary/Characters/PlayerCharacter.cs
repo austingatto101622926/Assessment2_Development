@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Assessment2_ClassLibrary
 {
-    public abstract class PlayyerCharacter : Character
+    public abstract class PlayerCharacter : Character
     {
         private char characterName;
-        private SpeciallAttack specialAttack;
+        private SpecialAttack specialAttack;
     }
 }
